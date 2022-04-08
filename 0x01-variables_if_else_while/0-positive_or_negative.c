@@ -8,7 +8,7 @@
  *
  * Return: Always 0.
  */
-int main(world)
+int main(void)
 {
 int n;
 
